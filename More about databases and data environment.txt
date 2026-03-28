@@ -1,0 +1,32 @@
+THE 5 TECHNIQUES YOU WWILL NEED IN EVERY PROJECT
+
+-- Data Warehouse: Special database that collects and integrates data from different sources to enable analytics and support decision-making.
+-- Challenges: 1) Redundancy
+	       2) Performance Issue
+	       3) Complexity
+	       4) Hard To Maintain
+	       5) DB Stress
+	       6) Security
+-- Solutions: 1) Subqueries
+	      2) CTEs (Common Table Expression)
+	      3) Views
+	      4) Temp Tables
+	      5) CTAS (Create Table As Select)
+-- Simplified Database Architecture
+1. Database Engine: It is the brain of the database, executing multiple operations such as storing, retrieving and managing data within the database.
+2. Disk Storage: It is a long-term memory where data is stored permanently.
+High Capacity: It can hold large amount of data.
+Low Speed: It is slow to and to write.
+3. Cache Storage: Fast short-term memory where data is stored temporarily.
+High Speed: It is extremely fast to read and to write.
+Low Capacity: It can only hold smaller amount of data.
+# Inside the Disk Storage there are:
+1. User Data Storage: It's the main content of the database.
+		    : This is where the actual data that users care about is stored.
+2. System Catalog: Database's internal storage for its own information.
+		 : A blueprint that keeps track of everything about the database itself, not the user date.
+                 : It's main purpose is holding the Metadata information about the database.
+Metadata: It is the data of data.
+Information Schema: It is a system-defined schema with built-in views that provide info about the database like tables and columns.
+-> To Get the Information schema write this query: Select * From Information_Schema;
+# Temporary Storage: It is used by the database for short-term tasks like processing queries or sorting data and once these tasks are done the storage is cleared.
