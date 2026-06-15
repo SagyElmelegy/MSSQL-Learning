@@ -46,6 +46,6 @@ Two reasons:
 
 I'm actively looking for junior data or database roles. If this repository shows the kind of learner and worker I am, I'd love to talk.
 
-- [LinkedIn](www.linkedin.com/in/sagy-elmelegy-76294725b)
+- [LinkedIn](www.linkedin.com/in/sagy-elmelegy-76294725b)(Sagy Elmelegy)
 - [GitHub](https://github.com/SagyElmelegy)
 - [Gmail](selmelegy0@gmail.com)
