@@ -30,7 +30,6 @@ Every file here represents something I wrote, tested, and understood (or struggl
 ---
 
 ## Repository Structure
-
 MSSQL-Learning/
 ├── Basic Joins (5).sql
 ├── Window Functions (17).sql
