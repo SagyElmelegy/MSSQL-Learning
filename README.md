@@ -29,18 +29,6 @@ Every file here represents something I wrote, tested, and understood (or struggl
 
 ---
 
-## Repository Structure
-MSSQL-Learning/
-├── Basic Joins (5).sql
-├── Window Functions (17).sql
-├── Indexes - Clustered Vs NonClustered (26).sql
-├── Execution Plans and Hints (30).sql
-├── Stored Procedure (33).sql
-├── Triggers (34).sql
-├── SQL DataWarehouse Project.docx
-└── ...
-
-
 *Note: Files are numbered sequentially to follow my learning path.*
 
 ---
