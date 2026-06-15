@@ -7,7 +7,7 @@
 I didn't just read tutorials. For each topic:
 
 1. Wrote the syntax from memory
-2. Ran queries against sample databases (AdventureWorks, Northwind)
+2. Ran queries against sample databases (AdventureWorks, Northwind) and (Sales, SalesDB)
 3. Broke things intentionally to understand error messages
 4. Added comments explaining *why* something works (not just *what* it does)
 
